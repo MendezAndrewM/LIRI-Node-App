@@ -1,0 +1,44 @@
+
+concert-this Cage The Elephant:
+===================================================================================
+Cage The Elephant's next show will be at:
+Venue: The Cynthia Woods Mitchell Pavilion
+Location: The Woodlands, TX
+Date: 07/28/2019
+===================================================================================
+
+spotify-this-song Hotel California:
+===================================================================================
+
+Artist: Eagles
+Title: Hotel California - 2013 Remaster
+Preview: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=5d1aa23f96c64bdd9d5c1f14d1917d81
+Album: Hotel California (2013 Remaster)
+===================================================================================
+
+movie-this The Lord of the Rings:
+===================================================================================
+
+Titile: The Lord of the Rings
+
+Year Released: 1978
+IMBD Rating: 6.2
+Rotten Tomatoes Rating: 50%
+Country Produced: USA, UK, Spain
+Language: English, Sindarin
+
+Cast:
+Christopher Guard, William Squire, Michael Scholes, John Hurt
+
+Plot:
+The Fellowship of the Ring embark on a journey to destroy the One Ring and end Sauron's reign over Middle-earth.
+===================================================================================
+
+do-what-it-says :
+===================================================================================
+
+Artist: Backstreet Boys
+Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=5d1aa23f96c64bdd9d5c1f14d1917d81
+Album: The Hits--Chapter One
+===================================================================================
