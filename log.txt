@@ -42,3 +42,47 @@ Title: I Want It That Way
 Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=5d1aa23f96c64bdd9d5c1f14d1917d81
 Album: The Hits--Chapter One
 ===================================================================================
+
+concert-this Cage The Elephant:
+===================================================================================
+Cage The Elephant's next show will be at:
+Venue: The Cynthia Woods Mitchell Pavilion
+Location: The Woodlands, TX
+Date: 07/28/2019
+===================================================================================
+
+spotify-this-song Fade to Black:
+===================================================================================
+
+Artist: Metallica
+Title: Fade To Black (Remastered)
+Preview: https://p.scdn.co/mp3-preview/1ed11e779717e87b588b0a47c0e3a2b5a7717bfe?cid=5d1aa23f96c64bdd9d5c1f14d1917d81
+Album: Ride The Lightning (Deluxe Remaster)
+===================================================================================
+
+movie-this Fifth Element:
+===================================================================================
+
+Titile: The Fifth Element
+
+Year Released: 1997
+IMBD Rating: 7.7
+Rotten Tomatoes Rating: 71%
+Country Produced: France
+Language: English, Swedish, German, Arabic, Egyptian (Ancient)
+
+Cast:
+Bruce Willis, Gary Oldman, Ian Holm, Milla Jovovich
+
+Plot:
+In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.
+===================================================================================
+
+do-what-it-says :
+===================================================================================
+
+Artist: Backstreet Boys
+Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=5d1aa23f96c64bdd9d5c1f14d1917d81
+Album: The Hits--Chapter One
+===================================================================================
